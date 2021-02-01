@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{F69CDE1B-82B1-402E-A448-544A9D463F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulations.Test", "StringManipulations.Test\StringManipulations.Test.csproj", "{9741032A-8A5C-4114-9909-6AAB697D7A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69CDE1B-82B1-402E-A448-544A9D463F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69CDE1B-82B1-402E-A448-544A9D463F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69CDE1B-82B1-402E-A448-544A9D463F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69CDE1B-82B1-402E-A448-544A9D463F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9741032A-8A5C-4114-9909-6AAB697D7A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9741032A-8A5C-4114-9909-6AAB697D7A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9741032A-8A5C-4114-9909-6AAB697D7A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9741032A-8A5C-4114-9909-6AAB697D7A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

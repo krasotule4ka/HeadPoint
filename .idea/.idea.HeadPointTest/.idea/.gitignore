@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.HeadPointTest.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\kotov\RiderProjects\HeadPointTest\.idea\.idea.HeadPointTest\.idea/dataSources/
+/dataSources.local.xml
